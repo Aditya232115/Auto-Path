@@ -1,0 +1,6 @@
+{
+  "name": "Action Path",
+  "description": "Plain-language summaries and step-by-step action checklists for complex documents, forms, and government notices in English, Hindi, and Marathi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
